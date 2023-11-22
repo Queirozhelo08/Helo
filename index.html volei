@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="pt-br"
+  <meta charset="UTF-8"
+  <title> Volei </title>
+
+  <h1>Voleibol</h1>
+
+  <p>Volei é um <strong>esporte coletivo</strong> , que envolve duas equipes com seis pessoas cada.</p>
+  <p>O objetivo é passar a bola por cima da rede e cair dentro da quadra do adversário, sem deixar cair dentro da quadra do seu time.</p>
+  <p>Podendo passar por toque, manchete, saque e corte.</p>
+  <p> Um jogo  contém, dois set de vinte e cinco pontos cada, havendo empate tem o tie breack que é o terceiro set de 15 pontos.</p>
+  <p>O time que tiver mais set ganhos, ganha o jogo.</p>
+  </html>
